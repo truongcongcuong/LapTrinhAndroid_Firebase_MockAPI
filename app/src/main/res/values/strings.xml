@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LapTrinhAndroid_Firebase_MockAPI</string>
+    <string name="url_mock">https://60ad9ae180a61f00173313b8.mockapi.io/user</string>
 </resources>
